@@ -1,6 +1,6 @@
 # Projeto Rustyx
 
-**projeto em desenvolvimento**
+**projeto em desenvolvimento...**
 - Focado em sincronia de dados de um computador para o outro com uma interface gráfica fácil
 
 ## Objetivos
