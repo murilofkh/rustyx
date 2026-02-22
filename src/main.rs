@@ -1,3 +1,3 @@
 fn main() {
-    println!("Hello, world!");
+    println!("=== Bem-vindo ao Rustyx! ===")
 }
